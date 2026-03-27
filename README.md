@@ -3,5 +3,3 @@
 ### I love Developing & Managing things.
 
 - 🔭 I’m currently working on Improving my skills and Building Myself.
-- 🌱 I’m currently learning Machine Learning.
-
