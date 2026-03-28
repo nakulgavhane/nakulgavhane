@@ -28,8 +28,3 @@
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
 <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakulgavhane&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulgavhane&layout=compact&theme=tokyonight&hide_border=true" height="165" />
-</p>
