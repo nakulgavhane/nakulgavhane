@@ -1,6 +1,6 @@
 # Hello 👋, I'm Nakul Gavhane
 
-## Systems Engineer | Full Stack Developer | AI Enthusiast
+## Full Stack Developer | AI Enthusiast
 
 ### Connect with me:
 
