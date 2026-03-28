@@ -1,77 +1,35 @@
-# Hi, I'm Nakul 👋
+# Hello 👋, I'm Nakul Gavhane
 
-Systems Engineer at EdgeVerve Systems (Infosys) | B.E. in AI & Data Science
+## Systems Engineer | Full Stack Developer | AI Enthusiast
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-gavhane-997340284)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nakulgavhane@gmail.com)
+### Connect with me:
 
----
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakul-gavhane-997340284)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:nakulgavhane@gmail.com)
 
-## Tech Stack
+### Languages and Tools:
 
-**Languages:** Java, Python, JavaScript, SQL, Kotlin, C++
-
-**Frameworks:** React, Next.js, Node.js, Fastify, Express.js, Flask
-
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite
-
-**Tools:** Linux, Git, Cloudflare Workers, JUnit, JMeter, Docker, Figma
-
----
-
-## Projects
-
-### [📈 Dalal Sanchar](https://github.com/nakulgavhane/dalal-sanchar)
-Real-time stock market dashboard that scrapes corporate announcements from NSE & BSE with cross-exchange deduplication.
-
-`Fastify` `PostgreSQL` `Cloudflare Workers` `SSE`
-
-🌐 [dalalsanchar.live](http://dalalsanchar.live/)
-
----
-
-### [🔐 Confandler](https://github.com/nakulgavhane/confandler)
-Anonymous confessions platform (Android + Web) with automated Instagram posting. 5,000+ users, 2M+ impressions.
-
-`Kotlin` `React` `Node.js` `Supabase` `Instagram Graph API`
-
-🌐 [Live App](https://confessions-olive.vercel.app/confessions/bWFoYXJhc2h0cmFfcHVuZV9kcHU=)
-
----
-
-### [🔍 Certificate Verification System](https://github.com/nakulgavhane/certificate-verification-system)
-Fake certificate detection using QR scanning, OCR, and URL validation. Reduced manual verification by 95%.
-
-`Flask` `Python` `SQLite` `Tesseract OCR`
-
----
-
-## Experience
-
-🏢 **Systems Engineer** @ EdgeVerve Systems (Infosys) — Aug 2025 to Present
-
-🏢 **Data Analytics Intern** @ EY Global Delivery Services — Dec 2023 to Jan 2024
-
----
-
-## Education
-
-🎓 **B.E. in AI & Data Science** @ Dr. D. Y. Patil Institute of Technology, Pune — CGPA: 8.78 | Final Year Topper
-
----
-
-## Certifications
-
-- Infosys Certified Agentic AI Developer
-- Infosys Certified Prompt Engineer
-- Infosys Certified GenAI Developer
-
----
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nakulgavhane&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+<p>
+<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" />
+<img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulgavhane&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=nakulgavhane&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nakulgavhane&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 </p>
